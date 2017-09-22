@@ -1,5 +1,5 @@
 {
-    "name": "larasoft/pusher-mobile-notifications",
+    "name": "larasoft-io/pusher-mobile-notifications",
     "description": "Pusher native Push Notifications driver.",
     "keywords": [
         "pusher-push-notifications",
