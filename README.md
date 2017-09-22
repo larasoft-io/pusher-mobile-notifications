@@ -30,7 +30,7 @@ This package makes it easy to send [Pusher push notifications](https://pusher.co
 You can install the package via composer:
 
 ``` bash
-composer require larasoft/pusher-mobile-notifications
+composer require larasoft-io/pusher-mobile-notifications
 ```
 
 You must install the service provider:
