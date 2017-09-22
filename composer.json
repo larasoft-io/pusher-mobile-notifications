@@ -1,0 +1,49 @@
+{
+    "name": "larasoft/pusher-mobile-notifications",
+    "description": "Pusher native Push Notifications driver.",
+    "keywords": [
+        "pusher-push-notifications",
+        "pusher-mobile-notifications",
+        "laravel",
+        "pusher",
+        "notifications"
+    ],
+    "homepage": "https://github.com/larasoft-io/pusher-mobile-notifications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Larasoft.io",
+            "email": "hello@larasoft.io",
+            "homepage": "https://larasoft.io/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "illuminate/events": "5.3.* || 5.4.* || 5.5.*",
+        "illuminate/notifications": "5.3.* || 5.4.* || 5.5.*",
+        "illuminate/queue": "5.3.* || 5.4.* || 5.5.*",
+        "illuminate/support": "5.3.* || 5.4.* || 5.5.*",
+        "pusher/pusher-php-server": "2.6.*"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.5",
+        "phpunit/phpunit": "^4.8 || ^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Larasoft\\PusherPushNotifications\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Larasoft\\PusherPushNotifications\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
