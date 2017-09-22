@@ -1,4 +1,4 @@
-# Pusher push notifications channel for Laravel 5.3
+# Pusher push notifications channel for Laravel 5.3.* | 5.4.* | 5.5.*
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/pusher-push-notifications.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/pusher-push-notifications)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
