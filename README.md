@@ -9,7 +9,7 @@
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/pusher-push-notifications/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/pusher-push-notifications/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/pusher-push-notifications.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/pusher-push-notifications)
 
-This package makes it easy to send [Pusher push notifications](https://pusher.com/docs/push_notifications) with Laravel 5.3.* | 5.4.* | 5.5.*
+This package makes it easy to send [Pusher push notifications](https://pusher.com/docs/push_notifications) with Laravel 5.3.* | 5.4.* | 5.5.* | 6.0.*
 
 ## Contents
 
